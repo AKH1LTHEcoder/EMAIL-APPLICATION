@@ -1,3 +1,5 @@
+// BACKEND STUFF
+
 package emailapp;
 
 import java.util.Scanner;
