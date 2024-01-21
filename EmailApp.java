@@ -1,3 +1,5 @@
+// THE APPLICATION
+
 package emailapp;
 
 public class EmailApp{
