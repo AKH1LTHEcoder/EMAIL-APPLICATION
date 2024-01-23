@@ -1,5 +1,6 @@
-HELLO EVERYONE, IM AKHIL DOING BY BTECH IN ECE AT VIT-BHOPAL.
-THIS IS MY FIRST RESPOSITORY IN GITHUB.
-I WILL BE UPLOADING THE JAVA PROJECTS, WHICH I WILL BE WORKING ON.  
-CHECKOUT MY PROFILE FOR OTHER PROJECTS. 
-FOLLOW ME ON LINKEDIN. LINK IS IN THE PROFILE.
+The scenario is 'You are an IT support Administrator Specialist and are charged with the task of creating email accounts for new hires'. 
+
+How The Application should work: 
+	1. Generates an email with the following syntax: firstname.lastname@department.company.com
+	2. Determines the department (sales, development, accounting).
+	3. Generates a random password. 
